@@ -16,7 +16,7 @@
 
 I hope this message finds you well. My name is **Aishwarya Asabe**, and I am excited about contributing to the tech world as a Software Engineer Intern. Here's a little more about me:
 
-- 🌱 I’m currently **learning Data Science , powerBI**.
+- 🌱 I’m currently **learning Data Science , into that PySpark and will soon be moving to PowerBI**.
 - 💻 My technical foundation includes **JavaScript, MongoDB, MySQL**, and **Java complemented by data structures and algorithms**.
 - 🔧 I enjoy building full-stack projects using the **MERN stack** and **Next.js** , **Complemented by Docker**.
 - 📫 Reach me at **[aishwaryaasabe007@gmail.com](mailto:aishwaryaasabe007@gmail.com)**.
